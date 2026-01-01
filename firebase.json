@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/expenseMngApp/browser",
+    "public": "dist/expense-mng/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
