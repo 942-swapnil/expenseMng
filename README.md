@@ -57,3 +57,45 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+
+colors:
+
+✅ Primary Theme (Finance + Trust)
+Primary Blue      : #1E88E5
+Dark Blue         : #1565C0
+Light Blue        : #E3F2FD
+
+
+✅ Secondary (Growth / Investment)
+Green             : #2E7D32
+Light Green       : #E8F5E9
+
+❌ Expense / Loss
+Red               : #D32F2F
+Light Red         : #FFEBEE
+
+⚠️ Warning / Pending
+
+Orange            : #FB8C00
+Light Orange      : #FFF3E0\
+
+🖤 Neutral / Background
+
+Dark Text         : #212121
+Secondary Text    : #616161
+Border / Divider  : #E0E0E0
+Background        : #F9FAFB
+Card Background   : #FFFFFF
+
+Color Usage Rules (IMPORTANT)
+Purpose	Color
+Add Expense Button	#D32F2F
+Add Income Button	#2E7D32
+Add Investment	#1E88E5
+Dashboard Cards	White + colored left border
+Charts	Blue / Green / Orange / Red
+
+Use Material Icons (Best for Angular)
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
